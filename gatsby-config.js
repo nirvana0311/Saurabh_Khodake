@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Saurabh Khodake Profile`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Saurabh Khodake`,
+      summary: `a professional Data Scientist with 3 years of experience who lives in Dublin.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://saurabh-khodake.netlify.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `nirvana0311`,
     },
   },
   plugins: [
